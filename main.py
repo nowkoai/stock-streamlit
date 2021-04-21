@@ -1,7 +1,7 @@
-import pandas as pd
-import yfinance as yf
-import altair as alt
 import streamlit as st
+import pandas as pd
+import altair as alt
+import yfinance as yf
 
 st.title('なうこ株価可視化アプリ')
 
